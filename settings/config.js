@@ -8,8 +8,8 @@ global.anti_delete = false
 
 // setting
 global.ownername ="Lion Suzune"
-global.ownernumber = "62887433094409"
-global.botname = "Leon Suzuki botz"
+global.ownernumber = "6283805243054"
+global.botname = "AHS BOT SESAD"
 global.thumbnail = fs.readFileSync("./settings/Leon.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'e966d3aac613b61dabd35cc6' //register lolhuman.xyz klo mau apikey
